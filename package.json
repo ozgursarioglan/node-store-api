@@ -1,7 +1,7 @@
 {
   "name": "node-store-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Özgür SARIOĞLAN",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
